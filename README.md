@@ -1,4 +1,4 @@
-# exifmap
+# Exifmap
 Obtain Image EXIF & Geo-Location data from a website.
 
 ## About
