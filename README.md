@@ -12,7 +12,7 @@ Exifmap can reliably and effectively obtain and identify Geo-Location and Device
 
 ## Usage and design 
 
-Exifmap is designed to be an OSINT (open source intelligence) tool used for gathering potential user agent and location information just from a website.
+Exifmap is designed to be an OSINT (open source intelligence) tool used for gathering potential user agent and location information from a website.
 
 > Exifmap should ***NOT*** be used for the purposes of doxxing or unethical website testing, and was made with the intentions of security research, pentests and bug bounties. Any issues or complaints: prv@anche.no
 
