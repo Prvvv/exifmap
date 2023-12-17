@@ -1,5 +1,5 @@
 # Exifmap
-Obtain Image EXIF & Geo-Location data from a website.
+> This tool is designed to obtain and validate Image EXIF & Geo-Location data from a website; any issues or questions: prv@anche.no
 
 ## About
 
